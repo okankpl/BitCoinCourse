@@ -1,0 +1,1 @@
+const API_KEY: '6GIG5K6TRB00VG1Z';
